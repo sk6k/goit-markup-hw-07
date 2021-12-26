@@ -5,7 +5,7 @@
   align-items: center;
 }
 
-.what-we-do-container__item {
+.what-we-do-list__item {
   position: relative;
   line-height: 1px;
   &:not(:last-child) {
@@ -13,10 +13,10 @@
   }
 }
 
-.what-we-do-container__wrap {
+.what-we-do-list__wrap {
   position: relative;
 }
-.what-we-do-container__text {
+.what-we-do-list__text {
   position: absolute;
   font-weight: 700;
   font-size: 14px;

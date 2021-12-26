@@ -6,7 +6,7 @@
   flex-direction: column;
 }
 
-.peculiarities-container__item {
+.peculiarities-list__item {
   content: '';
   width: 270px;
   margin-bottom: 30px;
@@ -18,7 +18,7 @@
   }
 }
 
-.peculiarities-container__link {
+.peculiarities-list__link {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -27,7 +27,7 @@
   width: 100%;
   margin-bottom: 30px;
 }
-.peculiarities-container__heading {
+.peculiarities-list__heading {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -36,7 +36,7 @@
   color: var(--first-text-color);
   margin-bottom: 10px;
 }
-.peculiarities-container__ph {
+.peculiarities-list__ph {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;

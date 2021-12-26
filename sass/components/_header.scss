@@ -19,7 +19,7 @@
   padding-bottom: 25px;
 }
 
-.header__item {
+.header-list__item {
   position: relative;
   &:not(:last-child) {
     margin-right: 50px;
@@ -30,7 +30,7 @@
   align-items: center;
   justify-content: center;
 }
-.header__link {
+.header-list__link {
   display: block;
   font-weight: 500;
   font-size: 14px;
